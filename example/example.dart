@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import '../lib/dio_flutter_transformer.dart';
+import '../lib/dio_flutter_transformer2.dart';
 
 main() async {
     var dio = Dio();
